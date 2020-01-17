@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SamplejspApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SamplejspApplication.class, args);
+		System.out.println("JSP SAMPLE TEST START");
 	}
 
 }
